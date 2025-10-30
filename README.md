@@ -4,7 +4,7 @@ Interactive planetary system built with **Three.js** featuring lighting, texture
 
 > **Live Demo (CodeSandbox):** https://pdnqqd.csb.app/
 
-> **Demo video:** [media/demo.mp4](media/DEMO_IG.mp4)
+> **Demo video:** [media/DEMO-IG.mp4](media/DEMO-IG.mp4)
  
 
 ---
