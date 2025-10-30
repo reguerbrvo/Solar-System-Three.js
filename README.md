@@ -2,7 +2,10 @@
 
 Interactive planetary system built with **Three.js** featuring lighting, textures, and two camera modes: an orbiting **Overview** and a first-person **Ship** view mounted on an invisible craft. Includes an in-app GUI (lil‑gui) for real‑time controls.
 
-> **Live Demo (CodeSandbox):** https://pdnqqd.csb.app/  
+> **Live Demo (CodeSandbox):** https://pdnqqd.csb.app/
+
+> **Demo video:** [media/demo.mp4](media/demo.mp4)
+ 
 
 ---
 
