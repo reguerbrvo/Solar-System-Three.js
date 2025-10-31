@@ -4,12 +4,12 @@ Interactive planetary system built with **Three.js** featuring lighting, texture
 
 > **Live Demo (CodeSandbox):** https://pdnqqd.csb.app/
 
-> **Demo video:** [media/DEMO-IG.mp4](media/DEMO-IG.mp4)
+> **Demo video:** [View video](media/DEMO-IG.mp4)
  
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Planets & Moons:** Six planets (Mercury, Venus, Earth, Mars, Jupiter, Saturn) and at least one moon (Earth’s Moon; optional Io for Jupiter).
 - **Lighting:** PointLight at the Sun for realistic shading and soft shadows.
@@ -22,7 +22,7 @@ Interactive planetary system built with **Three.js** featuring lighting, texture
 
 ---
 
-## 🎮 Controls
+##  Controls
 
 ### Overview (OrbitControls)
 - **Mouse drag:** orbit
@@ -38,7 +38,7 @@ Interactive planetary system built with **Three.js** featuring lighting, texture
 
 ---
 
-## 🧰 GUI 
+##  GUI 
 
 - **Simulation**
   - `Paused` — freeze/unfreeze simulation
@@ -52,7 +52,7 @@ Interactive planetary system built with **Three.js** featuring lighting, texture
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 .
@@ -73,7 +73,7 @@ Interactive planetary system built with **Three.js** featuring lighting, texture
 ```
 ---
 
-## 🧪 Implementation Notes
+##  Implementation Notes
 
 - **Rendering:** `WebGLRenderer` with soft shadows; output color space set to sRGB.
 - **Materials:** `MeshPhongMaterial` for planets (accepts maps/specular); `MeshBasicMaterial` for Sun and star dome.
@@ -91,5 +91,5 @@ Interactive planetary system built with **Three.js** featuring lighting, texture
 
 ---
 
-## 📜 License 
+##  License 
 ULPGC — © Raul Reguera Bravo
